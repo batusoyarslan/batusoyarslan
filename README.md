@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
@@ -27,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batusoyarslan&show_icons=true&locale=en&layout=compact" alt="batusoyarslan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batusoyarslan&show_icons=true&locale=en" alt="batusoyarslan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batusoyarslan&" alt="batusoyarslan" /></p>
