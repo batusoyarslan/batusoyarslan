@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/>
 
 
-🔭 I’m currently working on [GMGROUP](https://github.com/batusoyarslan/GMGroup)
+🔭 I’m currently working on  [GMGROUP] (https://github.com/batusoyarslan/GMGroup)
 
 🌱 I’m currently learning **Javascript React.js**
 
