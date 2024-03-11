@@ -1,10 +1,12 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/>
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/> 
 
 
-🔭 I’m currently working on  [GMGROUP] (https://github.com/batusoyarslan/GMGroup)
+
+
+ 🔭 I’m currently working on  [GMGROUP] (https://github.com/batusoyarslan/GMGroup)
 
 🌱 I’m currently learning **Javascript React.js**
 
