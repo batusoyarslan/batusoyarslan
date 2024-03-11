@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/>
 
 
-- 🔭 I’m currently working on [GMGROUP](https://github.com/batusoyarslan/GMGroup)
+🔭 I’m currently working on [GMGROUP](https://github.com/batusoyarslan/GMGroup)
 
-- 🌱 I’m currently learning **Javascript React.js**
+🌱 I’m currently learning **Javascript React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/batusoyarslan](https://github.com/batusoyarslan)
+👨‍💻 All of my projects are available at [https://github.com/batusoyarslan](https://github.com/batusoyarslan)
 
-- 📫 How to reach me **batihansoyarslan50@gmail.com**
+📫 How to reach me **batihansoyarslan50@gmail.com**
 
-- ⚡ Fun fact **I think I lost the way**
+⚡ Fun fact **I think I lost the way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
