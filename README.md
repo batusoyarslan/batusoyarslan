@@ -1,20 +1,18 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batusoyarslan&label=Profile%20views&color=0e75b6&style=flat" alt="batusoyarslan" /> </p>
 
+- 🔭 I’m currently working on [GMGROUP](https://github.com/batusoyarslan/GMGroup)
 
+- 🌱 I’m currently learning **Javascript React.js**
 
- 🔭 I’m currently working on  [GMGROUP] (https://github.com/batusoyarslan/GMGroup)
+- 👨‍💻 All of my projects are available at [https://github.com/batusoyarslan](https://github.com/batusoyarslan)
 
-🌱 I’m currently learning **Javascript React.js**
+- 📫 How to reach me **batihansoyarslan50@gmail.com**
 
-👨‍💻 All of my projects are available at [https://github.com/batusoyarslan](https://github.com/batusoyarslan)
-
-📫 How to reach me **batihansoyarslan50@gmail.com**
-
-⚡ Fun fact **I think I lost the way**
+- ⚡ Fun fact **I think I lost the way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
