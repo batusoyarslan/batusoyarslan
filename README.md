@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batusoyarslan&show_icons=true&locale=en&layout=compact" alt="batusoyarslan" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=batusoyarslan&show_icons=true&locale=en" alt="batusoyarslan" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=batusoyarslan&" alt="batusoyarslan" /></p>
